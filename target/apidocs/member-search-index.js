@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.github.andrey_ul.telegram_bot","c":"ImageComparator","l":"ImageComparator()","url":"%3Cinit%3E()"},{"p":"com.github.andrey_ul.telegram_bot","c":"ImageComparator","l":"isTheSameImages(BufferedImage, BufferedImage)","url":"isTheSameImages(java.awt.image.BufferedImage,java.awt.image.BufferedImage)"}]

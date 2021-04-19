@@ -1,0 +1,25 @@
+cmd.exe
+/X
+/C
+""C:\Program Files\Java\jdk-11.0.2\bin\javadoc.exe" @options @packages"
+D:\UlanovAndrey\Java\JavaProjects\TelegramBot\target\apidocs\allclasses-index.html = 1618812939867
+D:\UlanovAndrey\Java\JavaProjects\TelegramBot\target\apidocs\allclasses.html = 1618812939927
+D:\UlanovAndrey\Java\JavaProjects\TelegramBot\target\apidocs\allpackages-index.html = 1618812939892
+D:\UlanovAndrey\Java\JavaProjects\TelegramBot\target\apidocs\constant-values.html = 1618812939707
+D:\UlanovAndrey\Java\JavaProjects\TelegramBot\target\apidocs\deprecated-list.html = 1618812939920
+D:\UlanovAndrey\Java\JavaProjects\TelegramBot\target\apidocs\element-list = 1618812939628
+D:\UlanovAndrey\Java\JavaProjects\TelegramBot\target\apidocs\help-doc.html = 1618812939963
+D:\UlanovAndrey\Java\JavaProjects\TelegramBot\target\apidocs\index-all.html = 1618812939841
+D:\UlanovAndrey\Java\JavaProjects\TelegramBot\target\apidocs\index.html = 1618812939939
+D:\UlanovAndrey\Java\JavaProjects\TelegramBot\target\apidocs\member-search-index.js = 1618812939809
+D:\UlanovAndrey\Java\JavaProjects\TelegramBot\target\apidocs\member-search-index.zip = 1618812939816
+D:\UlanovAndrey\Java\JavaProjects\TelegramBot\target\apidocs\options = 1618812938403
+D:\UlanovAndrey\Java\JavaProjects\TelegramBot\target\apidocs\overview-tree.html = 1618812939784
+D:\UlanovAndrey\Java\JavaProjects\TelegramBot\target\apidocs\package-search-index.js = 1618812939790
+D:\UlanovAndrey\Java\JavaProjects\TelegramBot\target\apidocs\package-search-index.zip = 1618812939798
+D:\UlanovAndrey\Java\JavaProjects\TelegramBot\target\apidocs\packages = 1618812938404
+D:\UlanovAndrey\Java\JavaProjects\TelegramBot\target\apidocs\script.js = 1618812939973
+D:\UlanovAndrey\Java\JavaProjects\TelegramBot\target\apidocs\search.js = 1618812939985
+D:\UlanovAndrey\Java\JavaProjects\TelegramBot\target\apidocs\stylesheet.css = 1618812939971
+D:\UlanovAndrey\Java\JavaProjects\TelegramBot\target\apidocs\type-search-index.js = 1618812939800
+D:\UlanovAndrey\Java\JavaProjects\TelegramBot\target\apidocs\type-search-index.zip = 1618812939807
